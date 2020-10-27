@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "601126875885",
+    "firebase_url": "https://empresa-abc-sa.firebaseio.com",
+    "project_id": "empresa-abc-sa",
+    "storage_bucket": "empresa-abc-sa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601126875885:android:3813020e9678d69e4952e4",
+        "android_client_info": {
+          "package_name": "com.example.empresa_abc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601126875885-gcquf4b7l2vneopsj8fu7g9gpch5mjji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.empresa_abc",
+            "certificate_hash": "367c7b6a8dd64ef58a95f7846d08bda489ebac63"
+          }
+        },
+        {
+          "client_id": "601126875885-3mdugllmvj98bg9nb2o75cbpn1fuhj15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Vaen9zVnqr_Igstv4Bw2oPuA5zakhuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601126875885-3mdugllmvj98bg9nb2o75cbpn1fuhj15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
